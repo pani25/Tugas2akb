@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Tugas2AKB</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="female">Female</string>
+    <string name="male">   MALE</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="organization">Organization</string>
+    <string name="personal">Personal</string>
+    <string name="home_address">Home Address</string>
+    <string name="default_location">Default Location</string>
+    <string name="register">register</string>
+    <string name="back">back</string>
+    <string name="verify">verify</string>
+    <string name="enter_verification_code_here">enter verification code here...</string>
+    <string name="muhamad_pani_rayadi">Muhamad Pani Rayadi</string>
+    <string name="ab">AB</string>
+    <string name="login">LOGIN</string>
+    <string name="register2">Register</string>
+    <string name="doesn_t_have_account">doesn\'t have account ?</string>
+    <string name="or">OR</string>
+    <string name="connect_with_facebook">CONNECT WITH FACEBOOK</string>
+    <string name="agree_with_terms_and_conditions">Agree with Terms and Conditions</string>
+    <string name="register3">REGISTER</string>
+    <string name="thank_you_for_registerung_with_us_one_more">Thank you for registerung with us. One more</string>
+    <string name="to_active_your_account">to active your account</string>
+    <string name="step_you_need_to_check_your_email">step, you need to check your email</string>
+    <string name="almost_there">Almost There</string>
+    <string name="verify2">VERIFY</string>
+    <string name="resend">Resend</string>
+    <string name="doesn_t_get_code">doesn\'t get code?</string>
+    <string name="we_have_send_verification_to_your_email">We have send verification to your email</string>
+    <string name="verify_your_account">Verify your Account</string>
+    <string name="bloody_type_ab">Bloody Type : AB</string>
+
+    <string-array name="jenis_darah">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="Reshus">
+        <item>Reshus</item>
+    </string-array>
+
+    <string-array name="Job">
+        <item>Job</item>
+    </string-array>
+
+</resources>
